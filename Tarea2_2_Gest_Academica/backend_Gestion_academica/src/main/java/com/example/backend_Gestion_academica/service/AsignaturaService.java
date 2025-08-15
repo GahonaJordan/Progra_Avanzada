@@ -10,6 +10,9 @@ import java.util.stream.Collectors;
 
 @Service
 public class AsignaturaService {
+    //loco
+    //el jordan
+    // bbbb
 
     //inyeccion de dependencias
     private final AsignaturaRepository asignaturaRepository;
